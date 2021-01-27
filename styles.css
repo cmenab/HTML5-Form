@@ -1,0 +1,44 @@
+.container{
+    border: 1px solid lightgray;
+    padding: 0;
+    border-radius: 5px;
+}
+
+.form-header{
+    background-color: lightgray;
+    display: flex;
+    width: 100%;
+    border: 1px solid lightgray;
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+.form-body{
+    margin: 10px;
+}
+
+.alert{
+    margin: 15px;
+}
+
+.textarea-message{
+    color: gray;
+}
+
+.radiobox{
+    background-color: gray;
+    width: 40%;
+}
+
+.form-footer{
+    background-color: lightgray;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+}
+
+button{
+    margin: 5px;
+}
+
